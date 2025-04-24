@@ -1,7 +1,7 @@
-# Metasploitable 2 Walkthrough : Exploitation Guide
+# Metasploitable 3 Walkthrough : Exploitation Guide
 
 
-## Metasploitable 2 :
+## Metasploitable 3 :
 Metasploitable 2 is an intentionally vulnerable virtual machine designed for training, exploit testing, and general target practice. Unlike other vulnerable virtual machines, Metasploitable focuses on vulnerabilities at the operating system and network services layer instead of custom, vulnerable applications.
 
 ## Intelligence Gathering
